@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Play" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
@@ -35,9 +36,16 @@
         -moz-osx-font-smoothing: grayscale;
       }
 
-      code {
-        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-          monospace;
+      pre code {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+        background-color: #43464f;
+        padding: .5rem .5rem .5rem .5rem;
+        border-radius: .5rem;
+        color: #ffe3e3;
+        display: block;
+        word-wrap: break-word;
+        box-decoration-break: clone;
+        line-height: 1.25;
       }
 
       html, body {
@@ -45,74 +53,36 @@
           font-family: play;
           color:rgb(27, 44, 63);
           background-color: floralwhite;
+          line-height: 1.5;
       }
 
       .App {
         display: flex;
-        text-align: center;
-        align-items: center;
-        justify-content: center;
+        margin-top: 2em;
+        margin-left: 5em;
+        margin-right: 5em;
         flex-direction: column;
-      }
-
-      .App-header {
-        margin-top: 40vh;
-        font-size: 3em;
-      }
-
-      .link-container {
-        display: flex;
-        justify-content: center;
-      }
-
-      .link {
-        margin-left: 35px;
-        margin-right: 35px;
-      }
-
-      .link:hover{
-        transform: scale(1.2);
-      }
-
-      .link a:link {
-        color:inherit;
       }
     </style>
     <title>merctron.com</title>
   </head>
   <body>
     <div class="App">
-      <header class="App-header">
-          <div>MURTUZA KAINAN: MERCTRON</div>
-          <hr/>
-      </header>
-      <div class="link-container">
-        <div class="link">
-          <a href="https://github.com/Merctron" target="_blank" rel="noopener noreferrer">
-            <i class="grow fa-4x fa-brands fa-square-github"></i>
-          </a>
-        </div>
-        <div class="link">
-          <a href="statics/Resume.pdf" target="_blank" rel="noopener noreferrer">
-            <i class="grow fa-4x fa-solid fa-file-pdf"></i>
-          </a>
-        </div>
-        <div class="link">
-          <a href="blog.html" target="_blank" rel="noopener noreferrer">
-            <i class="grow fa-4x fa-solid fa-paragraph"></i>
-          </a>
-        </div>
-        <div class="link">
-          <a href="mailto:murtuzakainan@gmail.com" target="_blank" rel="noopener noreferrer">
-            <i class="grow fa-4x fa-solid fa-envelope-open-text"></i>
-          </a>
-        </div>
-        <div class="link">
-          <a href="https://www.linkedin.com/in/merctron" target="_blank" rel="noopener noreferrer">
-            <i class="grow fa-4x fa-brands fa-linkedin"></i>
-          </a>
-        </div>
+      <div id="blog">
+        
       </div>
     </div>
   </body>
+
+  <script type="module" type="text/javascript">
+    const converter = new showdown.Converter();
+
+    async function buildBlog() {
+      const res  = await fetch("/statics/blog/blog.md");
+      const blog = await res.text();
+      document.getElementById("blog").innerHTML += converter.makeHtml(blog);
+    }
+
+    buildBlog();
+  </script>
 </html>
