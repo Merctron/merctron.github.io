@@ -41,7 +41,7 @@
         background-color: #43464f;
         padding: .5rem .5rem .5rem .5rem;
         border-radius: .5rem;
-        color: #ffe3e3;
+        color: #fffaf2;
         display: block;
         word-wrap: break-word;
         box-decoration-break: clone;
@@ -52,8 +52,8 @@
       html, body {
           height: 100%;
           font-family: play;
-          color:rgb(27, 44, 63);
-          background-color: floralwhite;
+          color: #191a1b;
+          background-color: #fffaf2;
           line-height: 1.5;
       }
 
@@ -64,13 +64,67 @@
         margin-right: 5em;
         flex-direction: column;
       }
+
+      .App p {
+        font-family: helvetica;
+      }
+
+      .App a {
+        font-family: helvetica;
+      }
+
+      .Nav {
+        top: 0%;
+        width: 100%;
+        min-height: 2.5em;
+        background-color: #191a1b;
+        text-align: center;
+        color: #ffe3e3;
+      }
+
+      .Nav a { margin-top: 50%; color: #ffe3e3; font-size: 1.5em; }
+      .Nav a:link { margin-top: 50%; text-decoration: none; color: #ffe3e3; }
+      .Nav a:visited { margin-top: 50%; text-decoration: none; color: #ffe3e3; }
+      .Nav a:hover {
+        margin-top: 50%;
+        text-decoration: none;
+        color: #fffaf2;
+        font-weight: bold;
+        animation-name: merctronPalette;
+        animation-duration: .8s;
+        animation-iteration-count: 1;
+        animation-direction: alternate;
+        animation-timing-function: linear;
+      }
+      .Nav a:active { margin-top: 50%; text-decoration: none; color: #ffe3e3; }
+
+      @keyframes merctronPalette {
+        0% {
+          color: #fffaf2;
+        }
+        25% {
+          color: #fffaf2;
+        }
+        50% {
+          color: #006e90;
+        }
+        75% {
+          color: #bf1363;
+        }
+        100% {
+          color: #fffaf2;
+        }
+      }
+
     </style>
     <title>merctron.com</title>
   </head>
   <body>
+    <div class="Nav">
+      <a href="/blog.html">MERCTRON</a>
+    </div>
     <div class="App">
       <div id="blog">
-        
       </div>
     </div>
   </body>
