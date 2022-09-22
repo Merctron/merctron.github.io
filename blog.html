@@ -130,11 +130,17 @@
   </body>
 
   <script type="module" type="text/javascript">
+    const url = new URL(location.href);
+    const searchParams = url.searchParams;
+    const doc = searchParams.get("doc");
     const converter = new showdown.Converter();
 
     async function buildBlog() {
-      const res  = await fetch("/statics/blog/blog.md");
-      const blog = await res.text();
+      const res  = await fetch(doc || "/statics/blog/blog.md");
+      let blog = "# 404: I haven't written whatever you're searching for"
+      if (res.status === 200) {
+        blog = await res.text();
+      }
       document.getElementById("blog").innerHTML += converter.makeHtml(blog);
     }
 

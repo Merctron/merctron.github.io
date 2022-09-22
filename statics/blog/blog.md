@@ -18,6 +18,7 @@ buildBlog();
 ## Index
 
 * [TEAL - A tiny text adventure engine](https://github.com/Merctron/Teal)
+* [Short Stories](/blog.html?doc=statics/blog/stories.md)
 
 ## About
 
