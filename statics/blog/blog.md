@@ -1,6 +1,6 @@
 # MERCTRON: Blog, essays, and projects
 
-Hi, I'm Murtuza. This is a collection of things I write, and work on in my spare time that is catalogued here as a living archive or for public consumption (if you find any of it interesting). This blog uses a somewhat hacky and light-weight method of publishing that makes use of [Showdown](https://showdownjs.com/) to generate HTML from markdown files like so:
+Hi, I'm Murtuza. This is a collection of things I write, and work on in my spare time that is catalogued here as a living archive or for public consumption (if you find any of it interesting). This blog uses a somewhat hacky and light-weight method of publishing that makes use of [Showdown](https://showdownjs.com/) to generate HTML from [Markdown](https://www.markdownguide.org/) files like so:
 
 
 ```javascript
@@ -18,6 +18,7 @@ buildBlog();
 ## Index
 
 * [TEAL - A tiny text adventure engine](https://github.com/Merctron/Teal)
+* [Behavior and Biology](/blog.html?doc=statics/essays/behavior-and-biology.md)
 * [Short Stories](/blog.html?doc=statics/blog/stories.md)
 
 ## About
