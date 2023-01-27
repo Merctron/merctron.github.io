@@ -17,7 +17,8 @@ buildBlog();
 
 ## Index
 
-* [TEAL - A tiny text adventure engine](https://github.com/Merctron/Teal)
+* [Makers and Messiahs](/blog.html?doc=statics/essays/makers-and-messiahs.md)
+* [TEAL - A tiny text adventure engine](/blog.html?doc=statics/blog/teal.md)
 * [Behavior and Biology](/blog.html?doc=statics/essays/behavior-and-biology.md)
 * [Short Stories](/blog.html?doc=statics/blog/stories.md)
 
