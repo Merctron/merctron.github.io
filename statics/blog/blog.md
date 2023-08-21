@@ -22,6 +22,10 @@ buildBlog();
 * [TEAL - A tiny text adventure engine](/blog.html?doc=statics/blog/teal.md)
 * [Behavior and Biology](/blog.html?doc=statics/essays/behavior-and-biology.md)
 * [Short Stories](/blog.html?doc=statics/blog/stories.md)
+* [The Dogma Metagame](/blog.html?doc=statics/essays/the-dogma-metagame.md)
+* [M-Lisp](https://github.com/Merctron/M-Lisp)
+* [Reading List](/blog.html?doc=statics/blog/reading-list.md)
+
 
 ## About
 
