@@ -34,20 +34,19 @@ The implication is clear - why the fuck would you want to live a 2x life? The ad
 
 ## Part 2 - Deluded Focus
 
-Focus is undoubtedly a good thing (). [Sometimes it is also divine](https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences). As a eleven year old I read both [the Lost Symbol](https://en.wikipedia.org/wiki/The_Lost_Symbol) and [the Secret](https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)) and spent a good year and half believing my intense focus on getting a Gameboy was what had helped me manifest it in my life. Later, I realized my focus on getting it had simply changed my behavior (meaning that I annoyed my dad enough into purchasing one for me).
+Focus is a good thing. [Sometimes it is also divine](https://en.wikipedia.org/wiki/Institute_of_Noetic_Sciences). As a eleven year old I read both [the Lost Symbol](https://en.wikipedia.org/wiki/The_Lost_Symbol) and [the Secret](https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)) and spent a good year and half believing my intense focus on getting a Gameboy was what had helped me manifest it in my life. Later, I realized my focus on getting it had simply changed my behavior (meaning that I annoyed my dad enough into purchasing one for me).
 
 Hardy spends much of the introduction and his first two chapters on cultivating the importance of focus and refining goals into his reader's minds. He does not advocate for anything fantastical and his examples are even practical. Indeed, finding the most important and impactful stuff to focus on will be good for your life and your business. And eventually he says this:
 
 > Seemingly impossible or massive goals are highly practical because they immediately separate what works from what won’t, illuminating the few paths that have the greatest efficacy. Small goals are unable to clarify effective pathways because they are too marginal or linear from your current location.
 
-Yes, setting ambitious goals is a good thing. Yes, difficult problems help you focus on contraints (I can't help but think some of this is a flowery restatement of [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints)). But classifying in small goals as merely '2x' does them a disservice and leaves no room for nuance. Often, achieving a difficult objective involve breaking a difficult task into sub-problems or making incremental progress over long durations. I'm being pendantic of course (I imagine Hardy is focused on a narrow strain of business goal setting for clarity of focus is more of an issue), though self-help as a genre and entrepreneurship as a vocation is littered with with advice that sometimes can [fold into delusion like with the founder of a certain health diagnostics company](https://en.wikipedia.org/wiki/Theranos).
+Yes, one should set ambitious goals. Yes, difficult problems help you focus on contraints (I can't help but think some of this is a flowery restatement of [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints)). But classifying small goals as merely '2x' does them a disservice and leaves no room for nuance. Often, achieving a difficult objective involve breaking a difficult task into sub-problems or making incremental progress over long durations. I'm being pendantic of course (I imagine Hardy is focused on a narrow strain of business goal setting for clarity of focus is more of an issue), though self-help as a genre and entrepreneurship as a vocation is littered with with advice that sometimes can [fold into delusion like with the founder of a certain health diagnostics company](https://en.wikipedia.org/wiki/Theranos).
 
 Ironically, my critique does not have much focus in this section - I've drawn a line from Hardy's book to the worst excesses created by business operators in the name of the focus on their so called vision. To conclude, you will be OK if you follow the good aspects of the 10x approach and make temper your ambition and refinement of focus with humility about the complexity of the goal you are trying to achieve.
 
 ## Part 3 - Pat Yourself on the Back
 
 Various traditions since antiquity have laid out how to be happy and not beat yourself up. The 10x approach to this focuses specifically on [framing](https://en.wikipedia.org/wiki/Framing_effect_(psychology)) of personal and professional accomplishments (I imagine this is essential for business operators based on Hardy's experience coaching them).
-
 
 ## Part 4 - Live and Act in Kairos Time
 
@@ -58,7 +57,6 @@ All good advice (if somewhat obivious). All applicable to varying degrees (but m
 > Kairos is an ancient Greek word meaning the right or opportune moment. Kairos is what many philosophers and mystics would refer to as “deep time” or “alive time.” In kairos-time, the world seems to stop entirely. It can be measured in long exhales, a shared laugh, a colorful sunset, a courageous moment. It is qualitative time where you move forward in the present, untethered by any moving clock or calendar.
 
 We are back to theatrics intermingling with practical advice (references to [Cal Newport](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/) also abound). Living a good life is to a large extent simple and composed of simple wisdoms one accumulates throughout life so it bothers me when self-help authors dress it up as something profound. Life is already profound. I don't need a book talking about performance coaching for running a business also tell me applying these principles will help me metaphorically stop the flow of time in my life. I can already do that using edibles.
-
 
 ## Conclusion
 
