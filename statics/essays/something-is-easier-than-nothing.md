@@ -42,7 +42,7 @@ Hardy spends much of the introduction and his first two chapters on cultivating 
 
 Yes, one should set ambitious goals. Yes, difficult problems help you focus on contraints (I can't help but think some of this is a flowery restatement of [constraint theory](https://en.wikipedia.org/wiki/Theory_of_constraints)). But classifying small goals as merely '2x' does them a disservice and leaves no room for nuance. Often, achieving a difficult objective involve breaking a difficult task into sub-problems or making incremental progress over long durations. I'm being pendantic of course (I imagine Hardy is focused on a narrow strain of business goal setting for clarity of focus is more of an issue), though self-help as a genre and entrepreneurship as a vocation is littered with with advice that sometimes can [fold into delusion like with the founder of a certain health diagnostics company](https://en.wikipedia.org/wiki/Theranos).
 
-Ironically, my critique does not have much focus in this section - I've drawn a line from Hardy's book to the worst excesses created by business operators in the name of the focus on their so called vision. To conclude, you will be OK if you follow the good aspects of the 10x approach and make temper your ambition and refinement of focus with humility about the complexity of the goal you are trying to achieve.
+Ironically, my critique does not have much focus in this section - I've drawn a line from Hardy's book to the worst excesses created by business operators in the name of the focus on their so called vision. To conclude, you will be OK if you follow the good aspects of the 10x approach and temper your ambition and refinement of focus with humility about the complexity of the goal you are trying to achieve.
 
 ## Part 3 - Pat Yourself on the Back
 
@@ -60,4 +60,8 @@ We are back to theatrics intermingling with practical advice (references to [Cal
 
 ## Conclusion
 
-My growth after reading this book has been as exponential as 10x is non-linear. I don't think I learned anything new but reading mostly sensible advice about focus, framing, burnout, and building teams, was good as a reminder. Repitition does have value afterall but it affords progress that is most decidedly incremental.
+My growth after reading this book has been as exponential as 10x is non-linear. I don't think I learned anything new but reading mostly sensible advice about focus, framing, burnout, and building teams, was good as a reminder. Repitition does have value afterall but it affords progress that is most decidedly incremental. Then again, I'm not Benjamin Hardy bootstrapping his family:
+
+> Yes, in 2018, we technically went from zero to five kids. 10x transformation.
+
+
