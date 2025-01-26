@@ -17,6 +17,7 @@ buildBlog();
 
 ## Index
 
+* [Something is Easier than Nothing](/blog.html?doc=statics/essays/something-is-easier-than-nothing.md)
 * [WhaleBot](https://github.com/Merctron/WhaleBot)
 * [Makers and Messiahs](/blog.html?doc=statics/essays/makers-and-messiahs.md)
 * [TEAL - A tiny text adventure engine](/blog.html?doc=statics/blog/teal.md)
