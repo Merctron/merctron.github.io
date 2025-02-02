@@ -96,7 +96,7 @@ The author quotes this from a book called [Power versus Force by a certain Dr. H
 
 > Whether Dr. Hawkins' exact measurements are correct is less important than the central message he's conveying, as well as the central message of this book.
 
-I did hope that the book's mostly practical advice does not devolve into this but combining crunchy spirituality with practices that metricize success is a well known self-help calling card (this comes full circle when the author recounts how he his advice helped 10x the baptisms at his Church). I will end by noting that my growth after reading this book has been as exponential as 10x is non-linear.
+I did hope that the book's mostly practical advice does not devolve into this but combining crunchy spirituality with practices that metricize success is a well known self-help calling card (this comes full circle when the author recounts how his advice helped 10x the baptisms at his Church). I will end by noting that my growth after reading this book has been as exponential as 10x is non-linear.
 
 
 
