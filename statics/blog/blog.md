@@ -17,6 +17,7 @@ buildBlog();
 
 ## Index
 
+* [Laplace's Angel](/blog.html?doc=statics/essays/laplaces-angel.md)
 * [Something is Easier than Nothing](/blog.html?doc=statics/essays/something-is-easier-than-nothing.md)
 * [WhaleBot](https://github.com/Merctron/WhaleBot)
 * [Makers and Messiahs](/blog.html?doc=statics/essays/makers-and-messiahs.md)
