@@ -17,3 +17,7 @@ My evolving list for filtering out anything that seems non-settled/manufactured 
 * Dogma uses a Facade of Nuance
 * Dogma is often being used to advance an interest
 
+## The Power Of Flooding The Zone
+
+
+
