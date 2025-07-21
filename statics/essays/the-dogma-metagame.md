@@ -19,5 +19,19 @@ My evolving list for filtering out anything that seems non-settled/manufactured 
 
 ## The Power Of Flooding The Zone
 
+> The way to deal with them is to flood the zone with shit - Steve Bannon
+
+> All publicity is good publicity ― Pierre Choderlos de Laclos
+
+The goal is complaince with your dogma, and increasingly, the ends justify the means. The means, it turns out, are relentless creation of content. Relationship to truth or even a plausible narrative thrust are secondary concerns.
+
+For a while I puzzled over whether there was something else in the mix. Surely, capturing mind-share cannot be as simple as mere repition or speaking but I have come to realize that this is exactly it. Certain communities are able to persevere in their creation of content by imbuing what they do with meaning ([and in some cases an occult flavor](https://en.wikipedia.org/wiki/Dark_Star_Rising)) but it drives toward the same result - capturing the news cycle, but more importantly, social media feeds and the sheer volume of content on the internet.
+
+## Mediums
+
+Apparently, Luther was provocative and scatological as he led the reformation movement and the very same principles that led to his success are at work now they act upon mediums that are orders of magnitude more virulent.
+
+The internet has produced short form tweets, hyper palatable short form video, and we will be able to generate video with a mere description in short order thanks to multi-modal generative AI. It is a kind of information obesity (an observation I am not the first to make). My hope is that much like humans adapted to the written word, radio, and television, we will build resilient consensus mechanisms to deal with the flood on the internet and that norms and heuristics will develop to guide generations that grow up with these mediums. 
+
 
 

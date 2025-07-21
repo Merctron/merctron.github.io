@@ -1,19 +1,6 @@
 # MERCTRON: Blog, essays, and projects
 
-Hi, I'm Murtuza. This is a collection of things I write, and work on in my spare time that is catalogued here as a living archive or for public consumption (if you find any of it interesting). This blog uses a somewhat hacky and light-weight method of publishing that makes use of [Showdown](https://showdownjs.com/) to generate HTML from [Markdown](https://www.markdownguide.org/) files like so:
-
-
-```javascript
-const converter = new showdown.Converter();
-
-async function buildBlog() {
-  const res  = await fetch("/path/to/file.md");
-  const blog = await res.text();
-  document.getElementById("blog").innerHTML += converter.makeHtml(blog);
-}
-
-buildBlog();
-```
+Hi, I'm Murtuza. This is a collection of things I write, and work on in my spare time that is catalogued here as a living archive or for public consumption (if you find any of it interesting).
 
 ## Index
 
@@ -29,6 +16,22 @@ buildBlog();
 * [M-Lisp](https://github.com/Merctron/M-Lisp)
 * [Reading List](/blog.html?doc=statics/blog/reading-list.md)
 
+## How this works
+
+This blog uses a somewhat hacky and light-weight method of publishing that makes use of [Showdown](https://showdownjs.com/) to generate HTML from [Markdown](https://www.markdownguide.org/) files like so:
+
+
+```javascript
+const converter = new showdown.Converter();
+
+async function buildBlog() {
+  const res  = await fetch("/path/to/file.md");
+  const blog = await res.text();
+  document.getElementById("blog").innerHTML += converter.makeHtml(blog);
+}
+
+buildBlog();
+```
 
 ## About
 

@@ -8,3 +8,6 @@ This is a collections of things I've read or am currently reading that I thought
 * [Incompleteness](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [Pessimist's Archive](https://pessimistsarchive.org/)
+* [On Bullshit](https://uca.edu/honors/files/2018/10/frankfurt_on-bullshit.pdf)
+* [Human Brain vs Supercomputer](https://foglets.com/supercomputer-vs-human-brain/amp/)
+* [Heuristics for human interaction](https://dynomight.net/humans/)
