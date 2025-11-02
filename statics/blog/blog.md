@@ -4,6 +4,7 @@ Hi, I'm Murtuza. This is a collection of things I write, and work on in my spare
 
 ## Index
 
+* [Clio](/clio)
 * [Hacking Humans for Fun and Profit](/blog.html?doc=statics/essays/hacking-humans-for-fun-and-profit.md)
 * [Laplace's Angel](/blog.html?doc=statics/essays/laplaces-angel.md)
 * [Something is Easier than Nothing](/blog.html?doc=statics/essays/something-is-easier-than-nothing.md)
